@@ -1,0 +1,20 @@
+//Clone
+git clone URL
+
+//See the changes
+git diff
+
+//Status to see the files changing
+git status
+
+//Add to stikying area
+git add FILE
+
+//See what is new
+git commit -m "Message"
+
+//Send to our git account
+git push
+
+
+//
